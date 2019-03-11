@@ -1,0 +1,23 @@
+{
+  "name": "creative-robot",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukpod1/creative-robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukpod1/creative-robot/issues"
+  },
+  "homepage": "https://github.com/lukpod1/creative-robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
